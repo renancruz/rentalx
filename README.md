@@ -16,27 +16,25 @@
 # Listagem de carros
 
   **RF**
-    [] Deve ser possível listar todos os carros disponíveis.
-    [] Deve ser possível listar todos os carros disponíveis pelo nome da categoria
-    [] Deve ser possível listar todos os carros disponíveis pelo nome da marca
-    [] Deve ser possível listar todos os carros disponíveis pelo nome do carro
+    [x] Deve ser possível listar todos os carros disponíveis.
+    [x] Deve ser possível listar todos os carros disponíveis pelo nome da categoria
+    [x] Deve ser possível listar todos os carros disponíveis pelo nome da marca
+    [x] Deve ser possível listar todos os carros disponíveis pelo nome do carro
 
 
   **RN**
-    [] O usuário não precisa estar logado no sistema.
+    [x] O usuário não precisa estar logado no sistema.
 
 # Cadastro de Especifiação no carro
 
   **RF**
     [] Deve ser possível cadastar uma especificação para um carro.
-    [] Deve ser possível listar todas as especificações
-    [] Deve ser possível listar todos os carros
-    [] O usuário responsável pelo cadastro deve ser um usuário administrador.
-  
+    
 
   **RN**
     [] Não deve ser possível cadastrar uma especificação para um carro não cadastrado.
     [] Não deve ser possível cadastrar uma especificação já existente para o mesmo carro.
+    [] O usuário responsável pelo cadastro deve ser um usuário administrador.
 
 # Cadastro de imagens do carro
 
